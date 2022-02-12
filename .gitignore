@@ -1,0 +1,6 @@
+bin/
+dev-data/
+node_modules/
+public/
+views/
+*.env
